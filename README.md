@@ -1,2 +1,2 @@
-# demo-stite
+# demo-site
 just a demo site
